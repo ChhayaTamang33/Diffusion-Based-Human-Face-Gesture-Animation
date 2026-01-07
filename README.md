@@ -1,4 +1,3 @@
-** Ongoing Project **
 Animating human faces has been widely explored in the field of computer vision. 
 Generally, existing methods can be divided into two main categories: 
 computer graphics–based approaches, which rely on modeling a 3D human head, and 
